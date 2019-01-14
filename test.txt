@@ -1,2 +1,3 @@
 A sentence about some stuff
 Here is a change 
+new
